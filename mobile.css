@@ -4,3 +4,13 @@
 img src="img/logo.svg" alt="logo da alurabooks">
 </header>
 </body
+<body>
+
+<header class="cabeçalho">
+<span class="cabeçalho_monu-hamburguer"></span>
+<img src="img/Logo.svg" alt="Logo da Alurabooks">
+<a href=""><img src="img/Favoritos.svg" alt="Nous favoritos"></a>
+<a href=""><img src="img/Compras.svg" alt="Carrinho de compras"></a>
+<a href=""><img src="img/Usuario.svg" alt="Meu perfil"></a>
+</header>
+</body>
